@@ -1,0 +1,15 @@
+.senderChat{
+    border: 1px solid darkblue;
+    background-color: lightblue;
+    width: 50%;
+    float: right;
+    color: darkblue;
+}
+.userName{
+    float: left;
+    font-weight: bold;
+}
+.messageText{
+    float: right;
+    font-weight: bold;
+}
