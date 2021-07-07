@@ -1,0 +1,15 @@
+.chatNameList{
+    border: 1px solid darkmagenta;
+    background-color: lightgreen;
+    width: 30%;
+    float: left;
+    color: grey;
+    display: flex;
+    flex-direction: row;
+}
+.chatNameList__username{
+    font-weight: bold;
+}
+.chatNameList__lastmessage{
+    font-weight: normal;
+}

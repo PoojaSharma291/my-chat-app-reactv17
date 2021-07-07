@@ -8,7 +8,7 @@ export const Chatmessagelist = (props: any) => {
     }, [],
     );
     return (
-        <div className="senderChat">
+        <div className="chatMessageList">
             <span className="userName">{props.user}</span><span className="messageText"> {props.message}</span>
         </div>
     )

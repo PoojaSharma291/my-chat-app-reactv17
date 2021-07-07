@@ -1,33 +1,41 @@
 export const DUMMY_DATA = [
     {
       senderId: "perborgen",
-      text: "who'll win?"
+      text: "who'll win?",
+      avatar: "P"
     },
     {
       senderId: "janedoe",
-      text: "who'll win?"
+      text: "who'll win?",
+      avatar: "J"
     },
     {
       senderId: "perborgen",
-      text: "You tell who will win?"
+      text: "You tell who will win?",
+      avatar: "P"
     },
     {
       senderId: "janedoe",
-      text: "May be Manchester"
+      text: "May be Manchester",
+      avatar: "J"
     },
     {
       senderId: "perborgen",
-      text: "May be"
+      text: "May be",
+      avatar: "P"
     },
     {
       senderId: "janedoe",
-      text: "Yeah"
+      text: "Yeah",
+      avatar: "J"
     },{
       senderId: "perborgen",
-      text: "Let's see"
+      text: "Let's see",
+      avatar: "P"
     },
     {
       senderId: "janedoe",
-      text: "Yup"
+      text: "Yup",
+      avatar: "J"
     }
   ]
